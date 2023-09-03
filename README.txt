@@ -15,12 +15,12 @@ can be in the following forms:
 the property as boolean. So if the user enters 2, the printout for even is "even: true" and
 for odd is "odd: false".
 
-2. Two numbers, separated by space: the first number denotes the starting number, and the second
-number denotes the number of consecutive numbers to be printed. For instance, 100 5 generates
+2. Two natural numbers, separated by space: the first number denotes the starting number, and the 
+second number denotes the number of consecutive numbers to be printed. For instance, 100 5 generates
 properties for 5 numbers: 100, 101, 102, 103, and 104. All properties that the number satisfies
 would be printed in the following form: number is property1, property2, property3, etc.
 
-3. Two number, plus any number of parameters: here the user can ask the program to generate 
+3. Two natural number, plus any number of parameters: here the user can ask the program to generate 
 numbers that satisfy any number of properties. If mutually exclusive properties are specified, 
 or if the user enters unknown properties, they would be given detailed error messages (details 
 see Note) and the program continues. The first number specifies the starting number (which 
