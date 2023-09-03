@@ -20,7 +20,7 @@ second number denotes the number of consecutive numbers to be printed. For insta
 properties for 5 numbers: 100, 101, 102, 103, and 104. All properties that the number satisfies
 would be printed in the following form: number is property1, property2, property3, etc.
 
-3. Two natural number, plus any number of parameters: here the user can ask the program to generate 
+3. Two natural numbers, plus any number of parameters: here the user can ask the program to generate 
 numbers that satisfy any number of properties. If mutually exclusive properties are specified, 
 or if the user enters unknown properties, they would be given detailed error messages (details 
 see Note) and the program continues. The first number specifies the starting number (which 
