@@ -2,11 +2,11 @@ Project assignment from JetBrains Academy (www.hyperskill.org), Java Developer t
 
 This project deals with several propeties a natural number might have. The user can identify
 specific properties of a number and a consecutive sequence of numbers. The user can also make
-the program generate a sequence of numbers that satisfiy any number of properties, providing 
+the program generate a sequence of numbers that satisfiy any number of properties, provided
 that the properties are not mutually exclusive (e.g. even and odd). The user can continuously
 query the program until they enter 0, after which the program prints "Goodbye!" and exits.
 
-A total of 12 properties can be identified and and used as parameters. The user can also add
+A total of 12 properties can be identified and used as parameters. The user can also add
 a minus sign before their query (e.g. "-even"), implying that the user wants to exclude 
 numbers that satisfy this property ("-even" returns a sequence of odd numbers). The input
 can be in the following forms:
